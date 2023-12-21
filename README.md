@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Achal
-- 👀 I’m interested in Data Sciense
-- 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking for a job role of Data Analytics
-- 👩‍🎓 My Tool set has Power Bi, Python (numpy, Pandas, Matplotlib, Seaborn, Excel & SQL
+- 👀 I’m interested in Data Analyst/Business Analyst.
+- 🌱 I’m currently learning Data Literacy.
+- 💞️ I’m looking for a job role of Data Analyst/ BI Analyst/ Power BI Developer.
+- 👩‍🎓 My Tool set has Power Bi, Python (numpy, Pandas, Matplotlib, Seaborn), Excel & SQL.
 - 👍 Skills- Data visualisation, Power Query, Pivot table and Charts, Storytelling, Data wragling
 - 📫 I am Available at saxenaachal1@gmail.com
 
